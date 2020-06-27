@@ -1,2 +1,1 @@
-# 2Python-learning
-Hi you
+# Python-learning
